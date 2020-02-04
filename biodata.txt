@@ -1,2 +1,3 @@
 NPM 	: 1806269801
 Nama 	: Riska Kurnia Dewi
+Jurusan	: Sistem Informasi
